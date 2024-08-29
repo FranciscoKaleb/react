@@ -1,0 +1,29 @@
+// import React, { createElement } from "react";
+// import ReactDOM from "react-dom/client";
+
+
+// function Greeting(){
+//     return(
+//         <div>
+//             <h2>John doe</h2>
+//             <p>this is message</p>
+//         </div>
+//     );
+// }
+
+// function Greeting(){
+//     return <div>
+//         <Person/>
+//         <Message/>
+//     </div>
+// }
+
+// const Person = () => <h2>john doe</h2>
+// const Message = () => {
+//     return <p>this iffs my message</p>
+// }
+
+
+
+// const root = ReactDOM.createRoot(document.getElementById('root'));
+// root.render(<Greeting></Greeting>);

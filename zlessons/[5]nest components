@@ -1,0 +1,44 @@
+// import React, { createElement } from "react";
+// import ReactDOM from "react-dom/client";
+
+
+// function Greeting(){
+//     return (
+//         <div>
+//             <div>
+//                 <ul>
+//                     <li>
+//                         home
+//                     </li>
+//                     <li>
+//                         about
+//                     </li>
+//                 </ul>
+//             </div>
+//             <h2>hellow world</h2>
+//         </div>
+//     );
+// }
+
+// function Greeting(){
+//     return(
+//         <React.Fragment>
+//             <div>
+//                     <ul>
+//                         <li>
+//                             home
+//                         </li>
+//                         <li>
+//                             about
+//                         </li>
+//                     </ul>
+//             </div>
+//             <h2>hellow worfld</h2>
+//         </React.Fragment>
+//     )
+// }
+
+
+
+// const root = ReactDOM.createRoot(document.getElementById('root'));
+// root.render(<Greeting></Greeting>);
